@@ -1,0 +1,7 @@
+streamlit
+logging
+datetime
+pandas
+seaborn
+matplotlib
+zenpy
